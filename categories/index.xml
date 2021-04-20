@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Learn to Adult</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on Learn to Adult</description>
+    <title>Categories on Adult story</title>
+    <link>https://adult-story.github.io/categories/</link>
+    <description>Recent content in Categories on Adult story</description>
+    <image>
+      <url>https://adult-story.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adult-story.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://adult-story.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

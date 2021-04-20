@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://adult-story.github.io/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://adult-story.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://adult-story.github.io/tags/first/</loc>
+  </url><url>
+    <loc>https://adult-story.github.io/stories/first-experience-chapter-1/</loc>
+  </url><url>
+    <loc>https://adult-story.github.io/tags/lesbian/</loc>
+  </url><url>
+    <loc>https://adult-story.github.io/stories/</loc>
+  </url><url>
+    <loc>https://adult-story.github.io/tags/</loc>
   </url>
 </urlset>

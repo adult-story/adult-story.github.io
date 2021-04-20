@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adult-story.github.io/sitemap.xml
